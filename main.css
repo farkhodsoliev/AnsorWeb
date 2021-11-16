@@ -2,7 +2,8 @@
     box-sizing: border-box;
 }
 *:focus{
-    
+    outline: 2px dotted #DE2E54;
+    outline-offset: 2px;
 }
 body{
     margin: 0px;
