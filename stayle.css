@@ -1,0 +1,128 @@
+
+
+.container_backraund{
+    width: 100%;
+    height: 533px;
+    background-color: #0EB4C1;
+    padding: 0px 170px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+}
+
+.container_backraund div{
+    width: 500px;
+    color: #fff;
+
+}
+.container_backraund div h1{
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 120%;
+}
+.container_backraund div p{
+    
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 150%;
+}
+
+.container_button {
+    display: flex;
+    color: #fff;
+    background-color: #DE2E54;
+    border: 2px solid #DE2E54;
+    font-weight: 700;
+    font-size: 15px;
+    padding: 12px 24px;
+    border-radius: 8px;
+}
+.container_button:hover{
+    background-color: rgba(222, 46, 84, 0.8);
+    border: solid rgba(222, 46, 84, 0.8) 2px;
+}
+.container_backraund img{
+    position: absolute;
+    width: 423px;
+    height: 504px;
+    bottom: 0;
+    right: 170px;
+}
+.servis_img_text h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 120%;
+}
+.servis_img_text {
+     width: 80%;
+     margin: auto;
+}
+
+.container_img_text{
+     display: flex;
+     align-items: center;
+     margin: 50px 0px;
+}
+.container_img_text img{
+    width: 200px;
+    height: 200px;
+    box-shadow: 0px 12px 24px -8px rgba(0, 107, 116, 0.3);
+    margin: 0px 64px;
+}
+.container_img_text p{
+    width: 600px;
+    height: 96px;
+    font-family: Open Sans;
+    font-size: 16px;
+    line-height: 150%;
+}
+.container_text h1{
+    text-align: left;
+    font-size: 24px;
+    line-height: 120%;
+    margin: 24px 0px;   
+}
+
+.sign_up_button{
+    display: flex;
+    color: #fff;
+    position: relative;
+    left: 550px;
+    background-color: #DE2E54;
+    border: 2px solid #DE2E54;
+    font-weight: 700;
+    font-size: 15px;
+    padding: 12px 24px;
+    border-radius: 8px;
+    margin: 30px 0px;
+}
+.sign_up_button:hover{
+    background-color: #fff;
+    color: #DE2E54 ;
+}
+
+.receiving_container{
+    background-color: #0EB4C1;
+    text-align: center;
+    padding: 30px 0px;
+    color: #fff;
+    
+}
+.button_animat{
+    background-color: #0EB4C1;
+    color:#fff;
+    border: 2px solid #fff;
+    font-weight: 700;
+    font-size: 15px;
+    padding: 12px 24px;
+    border-radius: 8px;
+    margin: 25px 10px;
+}
+.button_animat:hover{
+    background-color: #DE2E54;
+    
+}
