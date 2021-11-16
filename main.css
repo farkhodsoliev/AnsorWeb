@@ -28,7 +28,7 @@ body{
  }
  .navbar__h1 {
     color: #222;
-    margin: 0;
+    padding: 0px 0px 0px 10px;
     font-size: 24px;
     font-weight: 600;
     font-family: 'Open Sans';
@@ -62,7 +62,7 @@ body{
     font-size: 15px;
     padding: 12px 24px;
     border-radius: 8px;
-     
+    margin: 25px 0px; 
 }
 
 .nav_button:hover{
